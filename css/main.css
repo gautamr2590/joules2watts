@@ -1,0 +1,97 @@
+body {
+
+font-family: 'Roboto', sans-serif;
+}
+
+
+.no-padding {
+	padding: 0px !important;
+}
+
+.no-margin {
+	margin: 0px !important;
+}
+
+.whitebg {
+	background-color: white !important;
+}
+
+.blackbg {
+	background-color: black;
+	padding-bottom: 5%;
+}
+
+.whitecolor {
+	color: white;
+}
+
+.margintop5p {
+	margin-top: 5%;
+}
+
+.margintop13p {
+	margin-top: 13%;
+}
+
+.paddingdiv {
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+.landingscreen {
+	background-image: url('https://www.gc-employment.com/Content/images/cms/slider/slide_10.jpg');
+	height: 80%;
+	background-size: cover;
+}
+
+.mainheading {
+	color: white;
+	font-size: 70px;
+}
+
+.mainbtn {
+	background: transparent;
+    border: 2px solid white;
+    border-radius: 0px;
+    color: white;
+    transition: .2s all;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+.seconddiv {
+	background: #FCD307;
+	padding-bottom: 5%;
+}
+
+.circle {
+	width: 100px;
+	height: 100px;
+	background: white;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	display: inline-block;
+}
+
+.pencilmargin {
+	    margin-top: 27%;
+}
+
+.formclass {
+    width: 51%;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    float: left;
+}
+
+.formmess {
+	width: 47%;
+	margin-bottom: 5px;
+}
+
+.footer {
+	height: 75px;
+    padding-top: 2%;
+}
